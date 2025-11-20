@@ -1,0 +1,401 @@
+ El volumen de la unidad Z no tiene etiqueta.
+ El n£mero de serie del volumen es: 80B8-7CD0
+
+ Directorio de Z:\
+
+10/11/2025  23:36    <DIR>          .
+10/11/2025  23:36    <DIR>          ..
+09/11/2025  01:39                92 .htaccess
+09/11/2025  18:29    <DIR>          admin
+10/11/2025  21:02               755 agradecimiento.php
+09/11/2025  01:39    <DIR>          api
+10/11/2025  23:36                 0 archivos.txt
+09/11/2025  18:29    <DIR>          assets
+09/11/2025  18:29    <DIR>          config
+09/11/2025  01:39               194 contacto.php
+10/11/2025  21:01    <DIR>          controllers
+09/11/2025  01:31            15.372 crear_estructura.bat
+09/11/2025  14:23               143 ejem.html
+09/11/2025  01:39               156 galeria.php
+09/11/2025  01:39               198 habitaciones.php
+09/11/2025  18:29    <DIR>          includes
+09/11/2025  20:31               525 index.php
+09/11/2025  18:29    <DIR>          lang
+09/11/2025  01:39               573 login.php
+09/11/2025  01:39                92 logout.php
+09/11/2025  01:39    <DIR>          logs
+09/11/2025  01:39    <DIR>          middleware
+10/11/2025  20:57    <DIR>          models
+09/11/2025  18:29    <DIR>          operador
+09/11/2025  02:01    <DIR>          pages
+09/11/2025  01:39               716 README.md
+09/11/2025  01:39               120 register.php
+09/11/2025  18:29    <DIR>          uploads
+09/11/2025  18:29    <DIR>          usuario
+09/11/2025  01:39    <DIR>          utils
+09/11/2025  18:29    <DIR>          views
+              13 archivos         18.936 bytes
+
+ Directorio de Z:\admin
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  01:39               585 dashboard.php
+               1 archivos            585 bytes
+
+ Directorio de Z:\api
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\assets
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  18:29    <DIR>          bootstrap
+10/11/2025  23:24    <DIR>          css
+09/11/2025  01:39    <DIR>          fonts
+09/11/2025  18:29    <DIR>          gallery
+10/11/2025  22:50    <DIR>          images
+23/12/2014  22:15            93.113 jquery.js
+10/11/2025  23:07    <DIR>          js
+09/11/2025  18:29    <DIR>          mobile
+09/11/2025  18:29    <DIR>          respond
+23/12/2014  22:15             1.145 script.js
+23/12/2014  23:22             6.845 style.css
+09/11/2025  18:29    <DIR>          uniform
+09/11/2025  18:29    <DIR>          wow
+               3 archivos        101.103 bytes
+
+ Directorio de Z:\assets\bootstrap
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  18:29    <DIR>          css
+09/11/2025  18:29    <DIR>          fonts
+09/11/2025  18:29    <DIR>          js
+               0 archivos              0 bytes
+
+ Directorio de Z:\assets\bootstrap\css
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15           113.502 bootstrap.min.css
+               1 archivos        113.502 bytes
+
+ Directorio de Z:\assets\bootstrap\fonts
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15            20.290 glyphicons-halflings-regular.eot
+23/12/2014  22:15            63.078 glyphicons-halflings-regular.svg
+23/12/2014  22:15            41.236 glyphicons-halflings-regular.ttf
+23/12/2014  22:15            23.292 glyphicons-halflings-regular.woff
+               4 archivos        147.896 bytes
+
+ Directorio de Z:\assets\bootstrap\js
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15            60.539 bootstrap.js
+               1 archivos         60.539 bytes
+
+ Directorio de Z:\assets\css
+
+10/11/2025  23:24    <DIR>          .
+10/11/2025  23:24    <DIR>          ..
+10/11/2025  23:28             4.635 banner-style.css
+09/11/2025  14:31             1.275 lang-switcher.css
+10/11/2025  23:24             4.528 style.css
+               3 archivos         10.438 bytes
+
+ Directorio de Z:\assets\fonts
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\assets\gallery
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15             6.815 blueimp-gallery.min.css
+23/12/2014  22:15            31.564 jquery.blueimp-gallery.min.js
+               2 archivos         38.379 bytes
+
+ Directorio de Z:\assets\images
+
+10/11/2025  22:50    <DIR>          .
+10/11/2025  22:50    <DIR>          ..
+10/11/2025  23:18    <DIR>          banner
+09/11/2025  18:29    <DIR>          flags
+09/11/2025  01:39    <DIR>          galeria
+09/11/2025  01:39    <DIR>          habitaciones
+09/11/2025  15:20             8.795 logo.png
+10/11/2025  22:48    <DIR>          photos
+               1 archivos          8.795 bytes
+
+ Directorio de Z:\assets\images\banner
+
+10/11/2025  23:18    <DIR>          .
+10/11/2025  23:18    <DIR>          ..
+10/11/2025  23:17         1.711.831 banner1.jpg
+10/11/2025  23:18         1.767.006 banner2.jpg
+10/11/2025  23:18         1.906.151 banner3.jpg
+               3 archivos      5.384.988 bytes
+
+ Directorio de Z:\assets\images\flags
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  14:43             3.596 en-US.png
+05/06/2024  14:25               911 es-AR.png
+               2 archivos          4.507 bytes
+
+ Directorio de Z:\assets\images\galeria
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\assets\images\habitaciones
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\assets\images\photos
+
+10/11/2025  22:48    <DIR>          .
+10/11/2025  22:48    <DIR>          ..
+23/12/2014  22:15           200.055 1.jpg
+23/12/2014  22:15           162.586 10.jpg
+23/12/2014  22:15           289.976 11.jpg
+23/12/2014  22:15           137.467 2.jpg
+23/12/2014  22:15           118.835 3.jpg
+23/12/2014  22:15           215.479 4.jpg
+23/12/2014  22:15           121.031 5.jpg
+23/12/2014  22:15           199.001 6.jpg
+23/12/2014  22:15           187.261 7.jpg
+23/12/2014  22:15           252.835 8.jpg
+23/12/2014  22:15           235.508 9.jpg
+23/12/2014  22:15           362.929 banner.jpg
+              12 archivos      2.482.963 bytes
+
+ Directorio de Z:\assets\js
+
+10/11/2025  23:07    <DIR>          .
+10/11/2025  23:07    <DIR>          ..
+10/11/2025  23:25             1.755 banner-slider.js
+09/11/2025  14:32               904 lang-switcher.js
+10/11/2025  22:12             4.965 reserva-form.js
+23/12/2014  22:15             1.145 script.js
+               4 archivos          8.769 bytes
+
+ Directorio de Z:\assets\mobile
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15            11.417 touchSwipe.min.js
+               1 archivos         11.417 bytes
+
+ Directorio de Z:\assets\respond
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15            10.517 respond.js
+               1 archivos         10.517 bytes
+
+ Directorio de Z:\assets\uniform
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  18:29    <DIR>          css
+09/11/2025  18:29    <DIR>          images
+09/11/2025  18:29    <DIR>          js
+               0 archivos              0 bytes
+
+ Directorio de Z:\assets\uniform\css
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15             8.338 uniform.default.min.css
+               1 archivos          8.338 bytes
+
+ Directorio de Z:\assets\uniform\images
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15               143 bg-input-focus.png
+23/12/2014  22:15               143 bg-input.png
+23/12/2014  22:15            32.968 sprite.png
+               3 archivos         33.254 bytes
+
+ Directorio de Z:\assets\uniform\js
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15            27.393 jquery.uniform.js
+               1 archivos         27.393 bytes
+
+ Directorio de Z:\assets\wow
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+23/12/2014  22:15            61.188 animate.css
+23/12/2014  22:15             7.064 wow.min.js
+               2 archivos         68.252 bytes
+
+ Directorio de Z:\config
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  20:31               404 config.php
+09/11/2025  01:41               486 database.php
+               2 archivos            890 bytes
+
+ Directorio de Z:\controllers
+
+10/11/2025  21:01    <DIR>          .
+10/11/2025  21:01    <DIR>          ..
+10/11/2025  22:21             2.523 reservaController.php
+10/11/2025  21:01             1.590 Untitled-reservaController.php
+               2 archivos          4.113 bytes
+
+ Directorio de Z:\includes
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  01:39               707 auth.php
+09/11/2025  14:58             8.920 functions.php
+10/11/2025  22:52             9.914 i18n_db.php
+               3 archivos         19.541 bytes
+
+ Directorio de Z:\lang
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  10:34                 0 en_US.php
+09/11/2025  10:34                 0 es_AR.php
+               2 archivos              0 bytes
+
+ Directorio de Z:\logs
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\middleware
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\models
+
+10/11/2025  20:57    <DIR>          .
+10/11/2025  20:57    <DIR>          ..
+10/11/2025  20:57             2.621 ReservaModel.php
+               1 archivos          2.621 bytes
+
+ Directorio de Z:\operador
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  01:39               679 dashboard.php
+               1 archivos            679 bytes
+
+ Directorio de Z:\pages
+
+09/11/2025  02:01    <DIR>          .
+09/11/2025  02:01    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\uploads
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  01:39    <DIR>          habitaciones
+09/11/2025  01:39    <DIR>          usuarios
+               0 archivos              0 bytes
+
+ Directorio de Z:\uploads\habitaciones
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\uploads\usuarios
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\usuario
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  01:39               572 dashboard.php
+               1 archivos            572 bytes
+
+ Directorio de Z:\utils
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\views
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+09/11/2025  01:39    <DIR>          admin
+09/11/2025  18:29    <DIR>          layouts
+09/11/2025  01:39    <DIR>          operador
+10/11/2025  21:00    <DIR>          pages
+09/11/2025  01:39    <DIR>          usuario
+               0 archivos              0 bytes
+
+ Directorio de Z:\views\admin
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\views\layouts
+
+09/11/2025  18:29    <DIR>          .
+09/11/2025  18:29    <DIR>          ..
+10/11/2025  23:26             3.755 footer.php
+10/11/2025  23:24             5.148 header.php
+               2 archivos          8.903 bytes
+
+ Directorio de Z:\views\operador
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de Z:\views\pages
+
+10/11/2025  21:00    <DIR>          .
+10/11/2025  21:00    <DIR>          ..
+10/11/2025  21:00             1.195 agradecimiento.php
+09/11/2025  02:13             1.408 contacto.php
+09/11/2025  02:12             2.583 galeria.php
+23/12/2014  22:43             2.798 habitacion-detalle.php
+09/11/2025  02:10             5.491 habitaciones.php
+10/11/2025  23:22            12.198 home.php
+09/11/2025  01:39               825 login.php
+23/12/2014  22:15             1.593 nosotros.php
+               8 archivos         28.091 bytes
+
+ Directorio de Z:\views\usuario
+
+09/11/2025  01:39    <DIR>          .
+09/11/2025  01:39    <DIR>          ..
+               0 archivos              0 bytes
+
+     Total de archivos en la lista:
+              81 archivos      8.605.981 bytes
+             134 dirs  286.384.975.872 bytes libres
